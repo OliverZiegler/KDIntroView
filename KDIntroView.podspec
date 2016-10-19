@@ -47,7 +47,7 @@ You can literally create any kind of animation! Play around with it, and free yo
   s.source           = { :git => "https://github.com/likedan/KDIntroView.git", :tag => "1.1.5" }
    s.social_media_url = 'http://takefiveinteractive.com'
 
-  s.platform     = :ios, '10.0'
+  s.platform     = :ios, '8.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/*.swift'
